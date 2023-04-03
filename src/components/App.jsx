@@ -21,6 +21,7 @@ function App() {
     <div className="container">
       <h2>CurrentTime</h2>
       <h1>&nbsp;{time}</h1>
+      <p>Taran</p>
       {/* <button onClick={updateTime}>Get Time</button> */}
     </div>
   );
